@@ -1,0 +1,9 @@
+/* Tailwind Css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Input Placeholder */
+::placeholder {
+  color: aliceblue !important;
+}
