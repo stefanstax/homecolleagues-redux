@@ -8,6 +8,7 @@ import "./App.css";
 
 // actions
 import {setSearchField, requestColleagues} from "../actions"
+import Header from "../components/Header";
 
 const mapStateToProps = (state) => {
   return {
@@ -41,7 +42,7 @@ class App extends Component {
     ) : (
       <>
       <div className="flex flex-col bg-indigo-900 h-screen">
-        <h1 className="text-4xl sm:text-2xl text-white text-center text-thin mx-auto mt-5 mb-0">Home Colleagues</h1>
+        <Header />
         <SearchBox searchChange={onSearchChange} />
         <Scroll>
           <ErrorBoundry>
