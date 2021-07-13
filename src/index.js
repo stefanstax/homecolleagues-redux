@@ -9,7 +9,7 @@ import App from "./containers/App"
 import reportWebVitals from "./reportWebVitals";
 import { searchColleagues, requestColleagues } from "./reducers";
 import thunkMiddleware from "redux-thunk";
-
+import * as serviceWorker from "./serviceWorker"
 const rootReducer = combineReducers({searchColleagues, requestColleagues});
 const store = createStore(rootReducer, applyMiddleware(thunkMiddleware, logger))
 
@@ -18,4 +18,5 @@ ReactDOM.render(<Provider store={store}><App/></Provider>, document.getElementBy
 // If you want to start measuring performance in your app, pass a function
 // to log results (for example: reportWebVitals(console.log))
 // or send to an analytics endpoint. Learn more: https://bit.ly/CRA-vitals
+serviceWorker.register();
 reportWebVitals();

@@ -1,7 +1,7 @@
 {
-  "name": "homecolleagues_wredux",
+  "name": "homecolleagues_redux",
   "homepage": "https://stefanstax.github.io/homecolleagues-redux/",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "private": true,
   "dependencies": {
     "@craco/craco": "^6.1.2",
