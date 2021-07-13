@@ -1,23 +1,25 @@
 {
   "files": {
     "main.css": "/homecolleagues-redux/static/css/main.6a1d0953.chunk.css",
-    "main.js": "/homecolleagues-redux/static/js/main.c7d7fee5.chunk.js",
-    "main.js.map": "/homecolleagues-redux/static/js/main.c7d7fee5.chunk.js.map",
-    "runtime-main.js": "/homecolleagues-redux/static/js/runtime-main.5a1db3f6.js",
-    "runtime-main.js.map": "/homecolleagues-redux/static/js/runtime-main.5a1db3f6.js.map",
-    "static/js/2.f31354ac.chunk.js": "/homecolleagues-redux/static/js/2.f31354ac.chunk.js",
-    "static/js/2.f31354ac.chunk.js.map": "/homecolleagues-redux/static/js/2.f31354ac.chunk.js.map",
-    "static/js/3.5260b6b9.chunk.js": "/homecolleagues-redux/static/js/3.5260b6b9.chunk.js",
-    "static/js/3.5260b6b9.chunk.js.map": "/homecolleagues-redux/static/js/3.5260b6b9.chunk.js.map",
+    "main.js": "/homecolleagues-redux/static/js/main.3fa9be58.chunk.js",
+    "main.js.map": "/homecolleagues-redux/static/js/main.3fa9be58.chunk.js.map",
+    "runtime-main.js": "/homecolleagues-redux/static/js/runtime-main.1fdc8bc5.js",
+    "runtime-main.js.map": "/homecolleagues-redux/static/js/runtime-main.1fdc8bc5.js.map",
+    "static/js/2.d692bb4e.chunk.js": "/homecolleagues-redux/static/js/2.d692bb4e.chunk.js",
+    "static/js/2.d692bb4e.chunk.js.map": "/homecolleagues-redux/static/js/2.d692bb4e.chunk.js.map",
+    "static/js/3.6e2b6c41.chunk.js": "/homecolleagues-redux/static/js/3.6e2b6c41.chunk.js",
+    "static/js/3.6e2b6c41.chunk.js.map": "/homecolleagues-redux/static/js/3.6e2b6c41.chunk.js.map",
     "index.html": "/homecolleagues-redux/index.html",
+    "service-worker.js": "/homecolleagues-redux/service-worker.js",
+    "service-worker.js.map": "/homecolleagues-redux/service-worker.js.map",
     "static/css/main.6a1d0953.chunk.css.map": "/homecolleagues-redux/static/css/main.6a1d0953.chunk.css.map",
-    "static/js/2.f31354ac.chunk.js.LICENSE.txt": "/homecolleagues-redux/static/js/2.f31354ac.chunk.js.LICENSE.txt",
+    "static/js/2.d692bb4e.chunk.js.LICENSE.txt": "/homecolleagues-redux/static/js/2.d692bb4e.chunk.js.LICENSE.txt",
     "static/media/App.css": "/homecolleagues-redux/static/media/SEGA.47b4bfa9.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.5a1db3f6.js",
-    "static/js/2.f31354ac.chunk.js",
+    "static/js/runtime-main.1fdc8bc5.js",
+    "static/js/2.d692bb4e.chunk.js",
     "static/css/main.6a1d0953.chunk.css",
-    "static/js/main.c7d7fee5.chunk.js"
+    "static/js/main.3fa9be58.chunk.js"
   ]
 }
