@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/homecolleagues-redux/static/css/main.6a1d0953.chunk.css",
-    "main.js": "/homecolleagues-redux/static/js/main.181c8f39.chunk.js",
-    "main.js.map": "/homecolleagues-redux/static/js/main.181c8f39.chunk.js.map",
+    "main.css": "/homecolleagues-redux/static/css/main.647f16fe.chunk.css",
+    "main.js": "/homecolleagues-redux/static/js/main.9881a1d4.chunk.js",
+    "main.js.map": "/homecolleagues-redux/static/js/main.9881a1d4.chunk.js.map",
     "runtime-main.js": "/homecolleagues-redux/static/js/runtime-main.1fdc8bc5.js",
     "runtime-main.js.map": "/homecolleagues-redux/static/js/runtime-main.1fdc8bc5.js.map",
     "static/js/2.d692bb4e.chunk.js": "/homecolleagues-redux/static/js/2.d692bb4e.chunk.js",
@@ -12,14 +12,14 @@
     "index.html": "/homecolleagues-redux/index.html",
     "service-worker.js": "/homecolleagues-redux/service-worker.js",
     "service-worker.js.map": "/homecolleagues-redux/service-worker.js.map",
-    "static/css/main.6a1d0953.chunk.css.map": "/homecolleagues-redux/static/css/main.6a1d0953.chunk.css.map",
+    "static/css/main.647f16fe.chunk.css.map": "/homecolleagues-redux/static/css/main.647f16fe.chunk.css.map",
     "static/js/2.d692bb4e.chunk.js.LICENSE.txt": "/homecolleagues-redux/static/js/2.d692bb4e.chunk.js.LICENSE.txt",
     "static/media/App.css": "/homecolleagues-redux/static/media/SEGA.47b4bfa9.woff"
   },
   "entrypoints": [
     "static/js/runtime-main.1fdc8bc5.js",
     "static/js/2.d692bb4e.chunk.js",
-    "static/css/main.6a1d0953.chunk.css",
-    "static/js/main.181c8f39.chunk.js"
+    "static/css/main.647f16fe.chunk.css",
+    "static/js/main.9881a1d4.chunk.js"
   ]
 }
